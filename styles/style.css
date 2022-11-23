@@ -26,7 +26,7 @@ html {
 
 body {
   font-family: "Bodoni Moda", serif;
-  background-image: url(/images/depositphotos.jpg);
+  background-image: url('../images/depositphotos.jpg');
   background-position: center;
   height: 100vh;
   display: flex;
